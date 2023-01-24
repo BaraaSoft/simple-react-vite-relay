@@ -1,0 +1,3 @@
+# Fetch and print the GraphQL schema from a GraphQL HTTP endpoint
+>> npm install -g get-graphql-schema
+- Usage: get-graphql-schema [OPTIONS] ENDPOINT_URL > schema.graphql
